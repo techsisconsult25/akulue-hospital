@@ -82,7 +82,7 @@ export default function SiteFooter() {
 
       <div className="border-t border-white/10">
         <div className="container-width py-6 text-center text-xs text-slate-400">
-          &copy; {new Date().getFullYear()} Akulue Memorial Hospital. All rights
+          &copy; 2026 Akulue Memorial Hospital. All rights
           reserved.
         </div>
       </div>
