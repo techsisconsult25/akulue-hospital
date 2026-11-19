@@ -37,8 +37,8 @@ export default function HospitalIntroduction() {
         >
           <div className="relative min-h-[420px] overflow-hidden rounded-[28px] sm:min-h-[720px]">
             <Image
-              src="/images/about/About-scaled.jpg"
-              alt="Akulue Memorial Hospital"
+              src="/images/about/doctor1.jpg"
+              alt="Doctor"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover object-center transition duration-700 group-hover:scale-110"
